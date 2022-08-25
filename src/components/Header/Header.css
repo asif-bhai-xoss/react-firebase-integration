@@ -1,0 +1,17 @@
+.header nav {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  background-color: teal;
+  color: beige;
+  justify-content: center;
+}
+.header nav a {
+  color: beige;
+  margin-right: 17px;
+  text-decoration: none;
+  font-size: 25px;
+}
+.header nav a:hover {
+  color: gold;
+}

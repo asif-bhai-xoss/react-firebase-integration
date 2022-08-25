@@ -1,0 +1,11 @@
+.login {
+  font-size: 21px;
+}
+.login form {
+  margin-left: 30%;
+  margin-right: 30%;
+  font-size: 21px;
+}
+.login form input {
+  margin-bottom: 11px;
+}
